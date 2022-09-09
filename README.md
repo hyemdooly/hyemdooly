@@ -1,27 +1,10 @@
-## Hyemdooly's Github Profile 👋
-- 동국대학교 컴퓨터정보통신공학부 컴퓨터공학전공 3학년 재학
-- 소프트웨어 마에스트로 제 10기 수료
-- 한국디지털미디어고등학교 웹프로그래밍과 14회 졸업
+## 🍀 SongHyeMin, 송혜민
+안드로이드 신입 개발자를 준비하는 4학년 취준생
 
-### 🌱 배우고 있는 것
-- 학교 전공 과목
-- Android / Kotlin
-- iOS / Swift
+### 💻 Education
+- 동국대학교 컴퓨터정보통신공학부 컴퓨터공학전공 4학년 재학 (2018.03 ~ 2023.02 졸업 예정)
+- 소프트웨어 마에스트로 제 10기 수료 (2019.04 ~ 2019.12)
+- 한국디지털미디어고등학교 웹프로그래밍과 14회 졸업 (2015.03 ~ 2018.02)
 
-### 🤩 취미
-- 게임
-
-<!--
-**hyemdooly/hyemdooly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✉️ Contact
+- hyemdooly@gmail.com
