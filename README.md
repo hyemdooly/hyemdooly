@@ -1,9 +1,6 @@
 # 🍀 Song Hyemin, 송혜민
 Junior Android Developer
 
-## 🏢 Career
-- Coinone Android Developer (2024.03 ~)
-
 ## 🎓 Education
 - 동국대학교 컴퓨터정보통신공학부 컴퓨터공학전공 졸업 (2018.03 ~ 2023.02)
 - 한국디지털미디어고등학교 웹프로그래밍과 14회 졸업 (2015.03 ~ 2018.02)
